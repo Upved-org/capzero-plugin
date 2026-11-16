@@ -1,0 +1,7 @@
+{
+  "name": "capzero",
+  "owner": { "name": "CapZero" },
+  "plugins": [
+    { "name": "capzero", "source": "./plugins/capzero", "description": "Work in your CapZero apps through OAuth" }
+  ]
+}

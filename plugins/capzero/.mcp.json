@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "capzero": { "type": "http", "url": "https://app.capzero.ai/mcp" }
+  }
+}
